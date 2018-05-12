@@ -1,0 +1,33 @@
+_repo: The-Native-Soil_24274
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nourse, Alan Edward
+    aliases:
+    - Edwards, Al
+    - Nourse, Alan E. (Alan Edward)
+    birthdate: 1928
+    deathdate: 1992
+    gutenberg_agent_id: '25579'
+    url: http://www.gutenberg.org/2009/agents/25579
+    wikipedia: http://en.wikipedia.org/wiki/Alan_E._Nourse
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24274'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Human-alien encounters -- Fiction'
+title: The Native Soil
+url: http://www.gutenberg.org/ebooks/24274
